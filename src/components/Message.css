@@ -1,0 +1,21 @@
+.message {
+	display: flex;
+	padding: 2%;
+	width: fit-content;
+}
+
+.message_user {
+	margin-left: auto;
+	color: #fff;
+	text-align: left !important;
+}
+.message_userCard {
+	background-color: #0b81ff !important;
+}
+.message_guestCard {
+	background-color: #66bfbf !important;
+}
+.MuiCardContent-root {
+	padding-top: 5% !important;
+	padding-bottom: 5% !important;
+}
